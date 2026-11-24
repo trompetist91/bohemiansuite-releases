@@ -84,8 +84,7 @@ Deine Werke, Einstellungen und Daten bleiben bei einem Update erhalten. Vor grö
 
 Die Desktop-App BohemianSuite ist proprietäre Software. © 2026 BohemianSuite – alle Rechte vorbehalten.
 Das WordPress-Plugin „BohemianSuite Directory“ steht unter der [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
-[Impressum](https://bohemiansuite.de/impressum/) · [Datenschutz](https://bohemiansuite.de/datenschutz/)
-<!-- TODO: Nutzungsbedingungen/EULA verlinken, sobald vorhanden. -->
+[Impressum](https://bohemiansuite.de/impressum/) · [Datenschutz](https://bohemiansuite.de/datenschutz/) · [Nutzungsbedingungen](https://bohemiansuite.de/nutzungsbedingungen/)
 
 ### Open-Source-Komponenten
 
