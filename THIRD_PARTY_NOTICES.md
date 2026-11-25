@@ -6,11 +6,11 @@ nur die Abschnitte FFmpeg/LAME und PDFium sind handgepflegt (`tools/licenses/par
 
 Fragen zu Lizenzen und Quellcode: https://bohemiansuite.de/kontakt/
 
-<!-- notices-source: cargo-lock-sha256=9a03b16e5155cda55935bba93b3d639910afce1a1d6cebb8562f1cd3afa8428c package-lock-sha256=37a7062cd6cdf58560adb86b572f08d3b9518e9079478c3e43674a7ccb38f647 generated=2026-11-24 -->
+<!-- notices-source: cargo-lock-sha256=c7e4aa8d7300a8ef944fd2d3fe2bd30d00bfb207cd9a827d81d96a1da22e4b2e package-lock-sha256=639b1a4a0ed53fe640d358acd8ce0721d5820ecc60d038a9d5029d7e02c96469 generated=2026-11-25 -->
 
-- Erzeugt am: 2026-11-24
-- SHA-256 `Cargo.lock`: `9a03b16e5155cda55935bba93b3d639910afce1a1d6cebb8562f1cd3afa8428c`
-- SHA-256 `package-lock.json`: `37a7062cd6cdf58560adb86b572f08d3b9518e9079478c3e43674a7ccb38f647`
+- Erzeugt am: 2026-11-25
+- SHA-256 `Cargo.lock`: `c7e4aa8d7300a8ef944fd2d3fe2bd30d00bfb207cd9a827d81d96a1da22e4b2e`
+- SHA-256 `package-lock.json`: `639b1a4a0ed53fe640d358acd8ce0721d5820ecc60d038a9d5029d7e02c96469`
 - Rust-Pakete: 475 (davon 6 unter MPL-2.0), npm-Pakete: 14
 
 ---
